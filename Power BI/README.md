@@ -52,8 +52,17 @@ Interactive Power BI dashboard built to analyze lead generation, engagement, acq
 
 ## Dashboard Screenshots
 
-- Executive Overview.png
-- Marketing Performance Analysis.png
-- Lead Engagement Analysis.png
-- Customer & Acquisition Analysis.png
-- Business Insights & Action Plan.png
+### Executive Overview
+![Executive Overview](https://github.com/analyst-muneeza/B2B-EdTech-Lead-Analytics-Project/blob/main/Power%20BI/Executive%20Overview.png)
+
+### Marketing Performance Analysis
+![Marketing Performance Analysis](https://github.com/analyst-muneeza/B2B-EdTech-Lead-Analytics-Project/blob/main/Power%20BI/Marketing%20Performance%20Analysis.png)
+
+### Lead Engagement Analysis
+![Lead Engagement Analysis](https://github.com/analyst-muneeza/B2B-EdTech-Lead-Analytics-Project/blob/main/Power%20BI/Lead%20Engagement%20Analysis.png)
+
+### Customer & Acquisition Analysis
+![Customer & Acquisition Analysis](https://github.com/analyst-muneeza/B2B-EdTech-Lead-Analytics-Project/blob/main/Power%20BI/Customer%20%26%20Acquisition%20Analysis.png)
+
+### Business Insights & Action Plan
+![Business Insights & Action Plan](https://github.com/analyst-muneeza/B2B-EdTech-Lead-Analytics-Project/blob/main/Power%20BI/Business%20Insights%20%26%20Action%20Plan.png)
